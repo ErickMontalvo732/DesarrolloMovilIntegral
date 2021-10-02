@@ -1,0 +1,13 @@
+INSTALATION V1
+
+ :)
+ 
+ 1 yarn add --dev eslint prettier @react-native-community/eslint-config
+ 2 expo install react-native-svg
+ 3 expo install expo-font
+ 4 expo install @expo-google-fonts/lato
+ 5 expo install @expo-google-fonts/oswald
+ 6 yarn add styled-components
+ 7 yarn add react-native-paper
+ 8 npm install react-svg-star-rating
+ 
